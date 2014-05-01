@@ -12,4 +12,7 @@
   <project path="device/marakana/alpha" name="vmlinz/alpha" remote="github" revision="master" />
   <project path="device/marakana/alpha_sdk_addon" name="vmlinz/alpha_sdk_addon" remote="github" revision="master" />
 
+  <!-- add a customized aosp arm device profile -->
+  <project path="device/generic/aosp-arm-customized" name="vmlinz/android_device_aosp-arm-customized" remote="github" revision="master" />
+
 </manifest>
