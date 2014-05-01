@@ -3,7 +3,7 @@
   <remote name="github" fetch="https://github.com" />
 
   <!-- add busybox from the cyanogenmod repository -->
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="cm-11.0" />
+  <project path="external/busybox" name="vmlinz/android_external_busybox" remote="github" revision="cm-11.0" />
 
   <!-- add libusb ported for android -->
   <project path="external/libusb-android" name="vmlinz/libusb" remote="github" revision="master" />
