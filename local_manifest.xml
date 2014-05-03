@@ -15,4 +15,8 @@
   <!-- add a customized aosp arm device profile -->
   <project path="device/generic/aosp-arm-customized" name="vmlinz/android_device_aosp-arm-customized" remote="github" revision="master" />
 
+  <!-- add binder hello world example -->
+  <project path="device/generic/aosp-arm-customized/hello-world-service" name="vmlinz/Android-HelloWorldService" remote="github" revision="master" />
+
+
 </manifest>
